@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\LB11\LB11\bin\Debug\LB11.exe.config
+C:\Users\User\source\repos\LB11\LB11\bin\Debug\LB11.exe
+C:\Users\User\source\repos\LB11\LB11\bin\Debug\LB11.pdb
+C:\Users\User\source\repos\LB11\LB11\obj\Debug\LB11.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LB11\LB11\obj\Debug\LB11.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LB11\LB11\obj\Debug\LB11.Form1.resources
+C:\Users\User\source\repos\LB11\LB11\obj\Debug\LB11.Properties.Resources.resources
+C:\Users\User\source\repos\LB11\LB11\obj\Debug\LB11.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LB11\LB11\obj\Debug\LB11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LB11\LB11\obj\Debug\LB11.exe
+C:\Users\User\source\repos\LB11\LB11\obj\Debug\LB11.pdb
